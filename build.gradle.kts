@@ -18,6 +18,7 @@ dependencies {
     testImplementation(kotlin("test"))
     implementation("com.sparkjava:spark-kotlin:1.0.0-alpha")
     implementation("org.slf4j:slf4j-simple:1.7.21")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.0")
 
 
 }
